@@ -1,6 +1,6 @@
 # ECE276B SP23 Project 1
 
-## Overview
+<!-- ## Overview
 In this assignment, you are required to implement dynammic programming for the Door-Key problems.
 <p align="center">
 <img src="gif/doorkey.gif" alt="Door-key Problem" width="500"/></br>
@@ -42,5 +42,19 @@ You might find some useful tools in utils.py
 - **draw_gif_from_seq()**: Draw and save a gif image from a given action sequence.
 
 ### 3. example.py
-The example.py shows you how to interact with the utilities in utils.py, and also gives you some examples of interacting with gym-minigrid directly.
-# dp_planning_project
+The example.py shows you how to interact with the utilities in utils.py, and also gives you some examples of interacting with gym-minigrid directly. -->
+
+
+## Installation
+
+- Install Python version `3.7 ~ 3.10`
+- Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+## How to Run Code
+'''bash
+python map_dp.py
+'''
+This code works for both the random envs and known envs 
