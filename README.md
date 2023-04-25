@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ```
 
 ## How to Run Code
-'''bash
+```bash
 python map_dp.py
-'''
+```
 This code works for both the random envs and known envs 
