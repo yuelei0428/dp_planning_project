@@ -57,4 +57,4 @@ pip install -r requirements.txt
 ```bash
 python map_dp.py
 ```
-This code works for both the random envs and known envs 
+This file works for both the random envs and known envs. A demo of the shortest path found for each environment will be saved in the git folder.
